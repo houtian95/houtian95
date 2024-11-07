@@ -13,7 +13,7 @@
 
 ### 🛠 Tech Stack
 - 💻 
-	![Forex trading](https://img.shields.io/badge/-Forex-trading-333333?style=flat&logo=Forex-trading)
+	✔forex_trading
 	![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   	![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
     	![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
